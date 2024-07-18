@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about {
+    display: flex;
+    margin: auto;
+    width: 75%;
+    gap: 150px;
+    align-items: center;
+}
+p {
+    font-size: 19px;
+}
+h1 {
+    color: rgb(50, 189, 50);
+    text-align: center;
+    font-family: trebuchet;
+    font-style: bold;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+.image {
+    margin-right: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

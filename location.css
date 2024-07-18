@@ -1,0 +1,23 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body {
+    background-color: rgb(167, 212, 212);
+}
+.h1-1 {
+    text-align: center;
+    font-family: trebuchet;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.location {
+    display: flex;
+    justify-content: space-around;
+}
+
+.p1 {
+    line-height: 17px;
+    font-size: 20px;
+} */

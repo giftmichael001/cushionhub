@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section-1 {
+    display: flex;
+    margin: auto;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    color: rgb(50, 189, 50);
+    font-family: trebuchet;
+    font-style: bold;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+.info {
+    line-height: 30px;
+    margin: auto;
+    font-size: 25px;
+}
+.more-info {
+    line-height: 60px;
+    margin: auto;
+} 
+input {
+    padding:5px;
+}
+
+.btn-1 {
+    border-radius: 80px;
+    background-color: rgb(50, 189, 50);
+    color: white;
+    padding: 0.5rem;
+    transition: 0.15s;
+    cursor: pointer;
+    border: none;
+}
+.btn-1:hover{
+    color: black;
+}
